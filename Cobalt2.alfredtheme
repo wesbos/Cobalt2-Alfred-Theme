@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backgroundColor</key>
+	<string>rgba(26,52,72,1.00)</string>
+	<key>borderColor</key>
+	<string>rgba(53,67,77,0.56)</string>
+	<key>dividerLineColor</key>
+	<string>rgba(69,69,69,0.40)</string>
+	<key>imagePrefix</key>
+	<string>light</string>
+	<key>resultShortcutColor</key>
+	<string>rgba(166,166,166,1.00)</string>
+	<key>resultSubtextColor</key>
+	<string>rgba(166,166,166,1.00)</string>
+	<key>resultTextColor</key>
+	<string>rgba(166,166,166,1.00)</string>
+	<key>scrollbarColor</key>
+	<string>rgba(191,191,191,0.40)</string>
+	<key>searchFieldBackgroundColor</key>
+	<string>rgba(33,69,97,1.00)</string>
+	<key>searchFieldTextColor</key>
+	<string>rgba(254,220,50,1.00)</string>
+	<key>selectedResultBackgroundColor</key>
+	<string>rgba(33,69,97,1.00)</string>
+	<key>selectedResultForeground</key>
+	<string>rgba(255,255,248,1.00)</string>
+	<key>selectedResultShortcutColor</key>
+	<string>rgba(255,255,255,1.00)</string>
+	<key>selectedSubtextForeground</key>
+	<string>rgba(254,220,50,1.00)</string>
+</dict>
+</plist>
