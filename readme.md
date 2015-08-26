@@ -20,6 +20,6 @@ Nice, eh?
 ### Calculator
 ![](http://wes.io/NeFN/content)
 
-### Reccomeded Settings
+### Recommended Settings
 Looks best with disabled hat & cog icon as seen below.
 ![](http://wes.io/NfMf/content)
