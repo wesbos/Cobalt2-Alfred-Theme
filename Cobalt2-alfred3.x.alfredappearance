@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000FF",
+        "font" : "Menlo",
+        "color" : "#606B70FF"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#0E2232FF",
+        "font" : "Menlo",
+        "color" : "#4C78FFFF"
+      },
+      "backgroundSelected" : "#FFCF02FF",
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#000000FF",
+        "font" : "Menlo",
+        "color" : "#CDD6DBFF"
+      },
+      "iconPaddingHorizontal" : 15,
+      "paddingVertical" : 15,
+      "iconSize" : 45
+    },
+    "search" : {
+      "paddingVertical" : 30,
+      "background" : "#00000000",
+      "spacing" : 0,
+      "text" : {
+        "size" : 48,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue",
+        "color" : "#F5CF03FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#1B2C3FFF",
+      "paddingHorizontal" : 45,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#F3C600FF",
+      "blur" : 0,
+      "roundness" : 4,
+      "paddingVertical" : 30
+    },
+    "credit" : "Wes Bos / Joseph Fusco",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "##FFAE4F",
+      "thickness" : 0
+    },
+    "name" : "Cobalt2"
+  }
+}
