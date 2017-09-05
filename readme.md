@@ -1,10 +1,17 @@
 # Cobalt 2 theme for Alfred
 
-Super great theme for [Alfred](http://www.alfredapp.com/). 
-Based on the [Cobalt2 theme for Sublime Text](https://github.com/wesbos/cobalt2/).  
-Original by Wes Bos, updated by Nicolas Goerlach.
+Super great theme for [Alfred](http://www.alfredapp.com/).
+Based on the [Cobalt2 theme for Sublime Text](https://github.com/wesbos/cobalt2/).
+Original by Wes Bos, updated by Nicolas Goerlach & Joseph Fusco.
 
-To install, download `Cobalt2-alfred2.x.alfredappearance` for alfred 2.x and double click. Alfred will automatically install it for you.
+## Install
+Download this repository and double click on the file that corresponds with your version of Alfred. Alfred will automatically install it for you!
+
+### Alfred 2.x
+Use `Cobalt2-alfred2.x.alfredappearance`.
+
+### Alfred 3.x
+Use `Cobalt2-alfred3.x.alfredappearance`.
 
 Enjoy!
 
