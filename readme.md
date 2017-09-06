@@ -10,12 +10,11 @@ Download this repository and double click on the file that corresponds with your
 ### Alfred 2.x
 Use `Cobalt2-alfred2.x.alfredappearance`.
 
+![Alfred 2](https://pbs.twimg.com/media/CcF5LKyWIAEG94s.jpg:large)
+
 ### Alfred 3.x
 Use `Cobalt2-alfred3.x.alfredappearance`.
 
+![Alfred 3](https://user-images.githubusercontent.com/6676674/30079108-139e97f2-924d-11e7-94ca-56d2ba72f519.png)
+
 Enjoy!
-
-# Screenshots
-
-### Basic Use
-![](https://pbs.twimg.com/media/CcF5LKyWIAEG94s.jpg:large)
