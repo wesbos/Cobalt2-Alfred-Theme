@@ -4,7 +4,7 @@
       "textSpacing" : 4,
       "subtext" : {
         "size" : 12,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#FFC600FF",
         "font" : "Menlo",
         "color" : "#606B70FF"
       },
@@ -12,12 +12,12 @@
         "size" : 20,
         "colorSelected" : "#0E2232FF",
         "font" : "Menlo",
-        "color" : "#4C78FFFF"
+        "color" : "#FFC600FF"
       },
-      "backgroundSelected" : "#FFCF02FF",
+      "backgroundSelected" : "#1F4661FF",
       "text" : {
         "size" : 19,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#FFFFFFFF",
         "font" : "Menlo",
         "color" : "#CDD6DBFF"
       },
