@@ -16,21 +16,21 @@
       },
       "backgroundSelected" : "#FFCF02FF",
       "text" : {
-        "size" : 21,
+        "size" : 19,
         "colorSelected" : "#000000FF",
         "font" : "Menlo",
         "color" : "#CDD6DBFF"
       },
-      "iconPaddingHorizontal" : 15,
-      "paddingVertical" : 15,
-      "iconSize" : 45
+      "iconPaddingHorizontal" : 7,
+      "paddingVertical" : 8,
+      "iconSize" : 36
     },
     "search" : {
-      "paddingVertical" : 30,
+      "paddingVertical" : 0,
       "background" : "#00000000",
       "spacing" : 0,
       "text" : {
-        "size" : 48,
+        "size" : 31,
         "colorSelected" : "#000000FF",
         "font" : "Helvetica Neue",
         "color" : "#F5CF03FF"
@@ -39,21 +39,21 @@
     },
     "window" : {
       "color" : "#1B2C3FFF",
-      "paddingHorizontal" : 45,
+      "paddingHorizontal" : 9,
       "width" : 560,
       "borderPadding" : 0,
       "borderColor" : "#F3C600FF",
       "blur" : 0,
       "roundness" : 4,
-      "paddingVertical" : 30
+      "paddingVertical" : 0
     },
-    "credit" : "Wes Bos / Joseph Fusco",
+    "credit" : "Wes Bos \/ Joseph Fusco",
     "separator" : {
       "color" : "#00000000",
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "##FFAE4F",
+      "color" : "#B2B2B2FF",
       "thickness" : 0
     },
     "name" : "Cobalt2"
