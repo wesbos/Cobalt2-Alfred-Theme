@@ -15,6 +15,6 @@ Use `Cobalt2-alfred2.x.alfredappearance`.
 ### Alfred 3.x
 Use `Cobalt2-alfred3.x.alfredappearance`.
 
-![Alfred 3](https://user-images.githubusercontent.com/6676674/30079108-139e97f2-924d-11e7-94ca-56d2ba72f519.png)
+![Alfred 3](http://wes.io/ma2J/content)
 
 Enjoy!
