@@ -26,11 +26,11 @@
       "iconSize" : 36
     },
     "search" : {
-      "paddingVertical" : 0,
+      "paddingVertical" : 11,
       "background" : "#00000000",
       "spacing" : 0,
       "text" : {
-        "size" : 31,
+        "size" : 30,
         "colorSelected" : "#000000FF",
         "font" : "Helvetica Neue",
         "color" : "#F5CF03FF"
@@ -44,7 +44,7 @@
       "borderPadding" : 0,
       "borderColor" : "#F3C600FF",
       "blur" : 0,
-      "roundness" : 4,
+      "roundness" : -16,
       "paddingVertical" : 0
     },
     "credit" : "Wes Bos \/ Joseph Fusco",
